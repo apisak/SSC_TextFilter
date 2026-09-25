@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TextFilter.Test/TextFilter.Test.csproj" Id="2df6bd25-39eb-4aba-b5a2-54c18f5985ba" />
+  <Project Path="TextFilter\TextFilter.csproj" />
+</Solution>
